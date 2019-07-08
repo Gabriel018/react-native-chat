@@ -40,3 +40,5 @@ $ react-native run-ios
 - [ ] Conectar com a API do chatbot
 
 ~~Por enquanto os testes foram feitos só em celulares android.~~
+
+![react](https://user-images.githubusercontent.com/42377719/60833373-8465b300-a194-11e9-908c-37e7ace82ce6.gif)
